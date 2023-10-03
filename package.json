@@ -1,7 +1,7 @@
 {
-  "name": "thiru-cart",
+  "name": "parkveu",
   "version": "1.0.0",
-  "description": "ecommerce website using mern",
+  "description": "parking slot allocation",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
